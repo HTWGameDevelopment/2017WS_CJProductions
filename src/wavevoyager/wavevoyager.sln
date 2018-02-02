@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wavevoyager", "wavevoyager.csproj", "{62101E2E-C0B2-1E6B-711D-020B634F036C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wavevoyager.Editor", "wavevoyager.Editor.csproj", "{A25F9F97-004D-CB20-7054-4814F1865635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62101E2E-C0B2-1E6B-711D-020B634F036C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62101E2E-C0B2-1E6B-711D-020B634F036C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62101E2E-C0B2-1E6B-711D-020B634F036C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62101E2E-C0B2-1E6B-711D-020B634F036C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25F9F97-004D-CB20-7054-4814F1865635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25F9F97-004D-CB20-7054-4814F1865635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25F9F97-004D-CB20-7054-4814F1865635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25F9F97-004D-CB20-7054-4814F1865635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
